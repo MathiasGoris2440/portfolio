@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Emoji Support on Mathias Goris</title>
-    <link>http://localhost:1313/portfolio/tags/emoji-support/</link>
+    <link>https://mathiasgoris2440.github.io/portfolio/tags/emoji-support/</link>
     <description>Recent content in Emoji Support on Mathias Goris</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 14 Mar 2024 22:53:58 +0530</lastBuildDate>
-    <atom:link href="http://localhost:1313/portfolio/tags/emoji-support/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://mathiasgoris2440.github.io/portfolio/tags/emoji-support/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Masterclass Quantum Computing</title>
-      <link>http://localhost:1313/portfolio/blogs/masterclass-quantum-computing/</link>
+      <link>https://mathiasgoris2440.github.io/portfolio/blogs/masterclass-quantum-computing/</link>
       <pubDate>Thu, 14 Mar 2024 22:53:58 +0530</pubDate>
-      <guid>http://localhost:1313/portfolio/blogs/masterclass-quantum-computing/</guid>
+      <guid>https://mathiasgoris2440.github.io/portfolio/blogs/masterclass-quantum-computing/</guid>
       <description>Op 14 maart werd ik ondergedompeld in de intrigerende wereld van quantum computing tijdens een boeiende masterclass. Samen met een groep vrienden begaf ik me naar het nieuwe gebouw van Howest, waar de masterclass plaatsvond. Geleid door IBM Quantum Ambassadeurs, beloofde deze middag een diepgaand inzicht te bieden in de revolutionaire impact van quantum computing op diverse domeinen.&#xA;Verkenning van Quantum Computing De masterclass begon om 14 uur en duurde ongeveer 2 uur.</description>
     </item>
   </channel>
