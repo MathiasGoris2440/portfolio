@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>AI on Mathias Goris</title>
-    <link>https://mathiasgoris2440.github.io/portfolio/tags/ai/</link>
+    <link>http://localhost:1313/portfolio/tags/ai/</link>
     <description>Recent content in AI on Mathias Goris</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 20 Apr 2024 22:53:58 +0530</lastBuildDate>
-    <atom:link href="https://mathiasgoris2440.github.io/portfolio/tags/ai/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/portfolio/tags/ai/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Decentralized Autonomous Hackathon</title>
-      <link>https://mathiasgoris2440.github.io/portfolio/blogs/decentralized-autonomous-hackathon/</link>
+      <link>http://localhost:1313/portfolio/blogs/decentralized-autonomous-hackathon/</link>
       <pubDate>Sat, 20 Apr 2024 22:53:58 +0530</pubDate>
-      <guid>https://mathiasgoris2440.github.io/portfolio/blogs/decentralized-autonomous-hackathon/</guid>
+      <guid>http://localhost:1313/portfolio/blogs/decentralized-autonomous-hackathon/</guid>
       <description>Op 19 april 2024 stroomde opwinding door onze aderen toen mijn vrienden en ik begonnen aan een reis van Antwerpen naar Brugge. Onze bestemming? De Decentralized Autonomous Hackathon, gehost door Cyber 3 Lab. Gewapend met laptops, snacks, en een gedeelde passie voor innovatie, gingen we op weg om onszelf onder te dompelen in een draaikolk van creativiteit en competitie.&#xA;Een bruisende sfeer Toen we de levendige sfeer van MAM Howest betraden, knetterde de lucht van anticipatie.</description>
     </item>
   </channel>

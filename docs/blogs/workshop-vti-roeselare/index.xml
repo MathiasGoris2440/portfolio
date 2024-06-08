@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Workshop VTI Roeselare on Mathias Goris</title>
-    <link>https://mathiasgoris2440.github.io/portfolio/blogs/workshop-vti-roeselare/</link>
+    <link>http://localhost:1313/portfolio/blogs/workshop-vti-roeselare/</link>
     <description>Recent content in Workshop VTI Roeselare on Mathias Goris</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate></lastBuildDate>
-    <atom:link href="https://mathiasgoris2440.github.io/portfolio/blogs/workshop-vti-roeselare/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/portfolio/blogs/workshop-vti-roeselare/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

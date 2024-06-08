@@ -2,94 +2,94 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Mathias Goris</title>
-    <link>https://mathiasgoris2440.github.io/portfolio/tags/</link>
+    <link>http://localhost:1313/portfolio/tags/</link>
     <description>Recent content in Tags on Mathias Goris</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 20 Apr 2024 22:53:58 +0530</lastBuildDate>
-    <atom:link href="https://mathiasgoris2440.github.io/portfolio/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/portfolio/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>AI</title>
-      <link>https://mathiasgoris2440.github.io/portfolio/tags/ai/</link>
+      <link>http://localhost:1313/portfolio/tags/ai/</link>
       <pubDate>Sat, 20 Apr 2024 22:53:58 +0530</pubDate>
-      <guid>https://mathiasgoris2440.github.io/portfolio/tags/ai/</guid>
+      <guid>http://localhost:1313/portfolio/tags/ai/</guid>
       <description></description>
     </item>
     <item>
       <title>Blockchain</title>
-      <link>https://mathiasgoris2440.github.io/portfolio/tags/blockchain/</link>
+      <link>http://localhost:1313/portfolio/tags/blockchain/</link>
       <pubDate>Sat, 20 Apr 2024 22:53:58 +0530</pubDate>
-      <guid>https://mathiasgoris2440.github.io/portfolio/tags/blockchain/</guid>
+      <guid>http://localhost:1313/portfolio/tags/blockchain/</guid>
       <description></description>
     </item>
     <item>
       <title>Brugge</title>
-      <link>https://mathiasgoris2440.github.io/portfolio/tags/brugge/</link>
+      <link>http://localhost:1313/portfolio/tags/brugge/</link>
       <pubDate>Sat, 20 Apr 2024 22:53:58 +0530</pubDate>
-      <guid>https://mathiasgoris2440.github.io/portfolio/tags/brugge/</guid>
+      <guid>http://localhost:1313/portfolio/tags/brugge/</guid>
       <description></description>
     </item>
     <item>
       <title>Hackathon</title>
-      <link>https://mathiasgoris2440.github.io/portfolio/tags/hackathon/</link>
+      <link>http://localhost:1313/portfolio/tags/hackathon/</link>
       <pubDate>Sat, 20 Apr 2024 22:53:58 +0530</pubDate>
-      <guid>https://mathiasgoris2440.github.io/portfolio/tags/hackathon/</guid>
+      <guid>http://localhost:1313/portfolio/tags/hackathon/</guid>
       <description></description>
     </item>
     <item>
       <title>Emoji Support</title>
-      <link>https://mathiasgoris2440.github.io/portfolio/tags/emoji-support/</link>
+      <link>http://localhost:1313/portfolio/tags/emoji-support/</link>
       <pubDate>Thu, 14 Mar 2024 22:53:58 +0530</pubDate>
-      <guid>https://mathiasgoris2440.github.io/portfolio/tags/emoji-support/</guid>
+      <guid>http://localhost:1313/portfolio/tags/emoji-support/</guid>
       <description></description>
     </item>
     <item>
       <title>Example</title>
-      <link>https://mathiasgoris2440.github.io/portfolio/tags/example/</link>
+      <link>http://localhost:1313/portfolio/tags/example/</link>
       <pubDate>Thu, 14 Mar 2024 22:53:58 +0530</pubDate>
-      <guid>https://mathiasgoris2440.github.io/portfolio/tags/example/</guid>
+      <guid>http://localhost:1313/portfolio/tags/example/</guid>
       <description></description>
     </item>
     <item>
       <title>Sample</title>
-      <link>https://mathiasgoris2440.github.io/portfolio/tags/sample/</link>
+      <link>http://localhost:1313/portfolio/tags/sample/</link>
       <pubDate>Thu, 14 Mar 2024 22:53:58 +0530</pubDate>
-      <guid>https://mathiasgoris2440.github.io/portfolio/tags/sample/</guid>
+      <guid>http://localhost:1313/portfolio/tags/sample/</guid>
       <description></description>
     </item>
     <item>
       <title>Pr-Event</title>
-      <link>https://mathiasgoris2440.github.io/portfolio/tags/pr-event/</link>
+      <link>http://localhost:1313/portfolio/tags/pr-event/</link>
       <pubDate>Fri, 24 Nov 2023 23:29:21 +0530</pubDate>
-      <guid>https://mathiasgoris2440.github.io/portfolio/tags/pr-event/</guid>
+      <guid>http://localhost:1313/portfolio/tags/pr-event/</guid>
       <description></description>
     </item>
     <item>
       <title>Workshop</title>
-      <link>https://mathiasgoris2440.github.io/portfolio/tags/workshop/</link>
+      <link>http://localhost:1313/portfolio/tags/workshop/</link>
       <pubDate>Fri, 24 Nov 2023 23:29:21 +0530</pubDate>
-      <guid>https://mathiasgoris2440.github.io/portfolio/tags/workshop/</guid>
+      <guid>http://localhost:1313/portfolio/tags/workshop/</guid>
       <description></description>
     </item>
     <item>
       <title>Markdown Syntax</title>
-      <link>https://mathiasgoris2440.github.io/portfolio/tags/markdown-syntax/</link>
+      <link>http://localhost:1313/portfolio/tags/markdown-syntax/</link>
       <pubDate>Fri, 09 Dec 2022 19:53:33 +0530</pubDate>
-      <guid>https://mathiasgoris2440.github.io/portfolio/tags/markdown-syntax/</guid>
+      <guid>http://localhost:1313/portfolio/tags/markdown-syntax/</guid>
       <description></description>
     </item>
     <item>
       <title>Mathjax</title>
-      <link>https://mathiasgoris2440.github.io/portfolio/tags/mathjax/</link>
+      <link>http://localhost:1313/portfolio/tags/mathjax/</link>
       <pubDate>Fri, 09 Dec 2022 19:53:33 +0530</pubDate>
-      <guid>https://mathiasgoris2440.github.io/portfolio/tags/mathjax/</guid>
+      <guid>http://localhost:1313/portfolio/tags/mathjax/</guid>
       <description></description>
     </item>
     <item>
       <title>Placeholder Text</title>
-      <link>https://mathiasgoris2440.github.io/portfolio/tags/placeholder-text/</link>
+      <link>http://localhost:1313/portfolio/tags/placeholder-text/</link>
       <pubDate>Sat, 03 Apr 2021 22:41:10 +0530</pubDate>
-      <guid>https://mathiasgoris2440.github.io/portfolio/tags/placeholder-text/</guid>
+      <guid>http://localhost:1313/portfolio/tags/placeholder-text/</guid>
       <description></description>
     </item>
   </channel>
