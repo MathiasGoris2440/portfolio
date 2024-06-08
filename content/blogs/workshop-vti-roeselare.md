@@ -11,20 +11,20 @@ description: ""
 
 ---
 
-Op 24 november stonden wij, een team bestaande uit Bo Brugghe, Senne Vandecasteele en mijzelf, voor een uitdagende taak - het organiseren van een workshop over MQTT voor de IT-studenten van VTI Roeselare, als onderdeel van ons vak Professional Networking. Voorafgaand aan deze dag hebben we intensief samengewerkt om een boeiende en informatieve sessie te creëren.
+On November 24th, our team, consisting of Bo Brugghe, Senne Vandecasteele, and myself, faced a challenging task - organizing a workshop on MQTT for the IT students of VTI Roeselare as part of our course on Professional Networking. Prior to this day, we collaborated intensively to create an engaging and informative session.
 
-## Voorbereiding en Ideeontwikkeling
+## Preparation and Ideation
 
-Het begon allemaal met het brainstormen over het onderwerp van de workshop. Na veel discussie en overweging besloten Bo en Senne om de focus te leggen op MQTT, een protocol dat steeds belangrijker wordt in de wereld van IT en IoT. Aangezien ik minder bekend was met MQTT, heb ik mijn tijd besteed aan het uitleggen van onze school, Howest, en onze opleiding Toegepaste Informatica, terwijl ik ook de PowerPoint-presentatie voorbereidde.
+It all started with brainstorming the topic of the workshop. After much discussion and consideration, Bo and Senne decided to focus on MQTT, a protocol that is becoming increasingly important in the world of IT and IoT. Since I was less familiar with MQTT, I spent my time explaining our school, Howest, and our Applied Informatics program while also preparing the PowerPoint presentation.
 
-Terwijl ik bezig was met de presentatie, werkten Bo en Senne aan het MQQT-gedeelte. Ze besloten dat om MQTT goed uit te leggen en een concreet voorbeeld te geven, het nodig was om verschillende bijbehorende technologieën uit te leggen, waaronder Raspberry Pi, Docker, Portainer, Home Assistant, Grafana en Docker Compose. Hierdoor konden we na de uitleg een praktisch voorbeeld demonstreren aan de studenten.
+While I worked on the presentation, Bo and Senne focused on the MQTT segment. They decided that to properly explain MQTT and provide a concrete example, it was necessary to explain various related technologies, including Raspberry Pi, Docker, Portainer, Home Assistant, Grafana, and Docker Compose. This would allow us to demonstrate a practical example to the students following the explanations.
 
-## De Workshopdag
+## Workshop Day
 
-Op de dag van de workshop verzamelden we ons om 10 uur 's ochtends voor de poort van VTI Roeselare, klaar om samen de klas binnen te gaan. Nadat we alles hadden opgezet, begonnen de studenten langzaam binnen te druppelen. We waren klaar om onze workshop te starten.
+On the day of the workshop, we gathered at 10 AM in front of the gate of VTI Roeselare, ready to enter the classroom together. After setting everything up, the students slowly started to trickle in. We were ready to start our workshop.
 
-Gedurende anderhalf uur leidden we de workshop, waarbij elk van ons de toegewezen onderdelen presenteerde. Ondanks enkele kleine problemen tijdens de demonstratie van het voorbeeld, slaagden we erin om deze snel op te lossen en de workshop vlot te laten verlopen.
+For an hour and a half, we led the workshop, with each of us presenting our assigned sections. Despite a few minor issues during the demonstration of the example, we managed to resolve them quickly and kept the workshop running smoothly.
 
-## Reflectie
+## Reflection
 
-Persoonlijk vond ik de workshop een mix van stress en opwinding. Het was een uitdagende ervaring om voor de klas te staan en mijn kennis te delen, maar tegelijkertijd was het geweldig om te zien hoe de studenten reageerden op de informatie en het voorbeeld dat we hadden voorbereid. Het was een waardevolle gelegenheid om zowel mijn presentatie- als mijn samenwerkingsvaardigheden te verbeteren, en ik ben trots op wat ons team heeft bereikt.
+Personally, I found the workshop to be a mix of stress and excitement. It was a challenging experience to stand in front of the class and share my knowledge, but it was also great to see how the students responded to the information and the example we had prepared. It was a valuable opportunity to improve both my presentation and teamwork skills, and I am proud of what our team accomplished.

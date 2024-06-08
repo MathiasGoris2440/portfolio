@@ -13,36 +13,36 @@ description: ""
 toc: 
 
 ---
-Op 19 april 2024 stroomde opwinding door onze aderen toen mijn vrienden en ik begonnen aan een reis van Antwerpen naar Brugge. Onze bestemming? De Decentralized Autonomous Hackathon, gehost door Cyber 3 Lab. Gewapend met laptops, snacks, en een gedeelde passie voor innovatie, gingen we op weg om onszelf onder te dompelen in een draaikolk van creativiteit en competitie.
+On April 19, 2024, excitement surged through our veins as my friends and I embarked on a journey from Antwerp to Bruges. Our destination? The Decentralized Autonomous Hackathon, hosted by Cyber 3 Lab. Armed with laptops, snacks, and a shared passion for innovation, we set off to immerse ourselves in a whirlwind of creativity and competition.
 
-## Een bruisende sfeer
+## A Vibrant Atmosphere
 
-Toen we de levendige sfeer van MAM Howest betraden, knetterde de lucht van anticipatie. Teams waren druk bezig, elk barstend van de ideeën en energie. Te midden van de zee van enthousiaste gezichten vonden mijn vrienden en ik onze plek, klaar om de uitdaging aan te gaan die voor ons lag.
+Upon entering the lively atmosphere of MAM Howest, the air crackled with anticipation. Teams were bustling, each bursting with ideas and energy. Amid the sea of enthusiastic faces, my friends and I found our spot, ready to tackle the challenge ahead.
 
-## Een baanbrekend idee
+## A Groundbreaking Idea
 
-Met het thema van het verenigen van blockchain en AI voor innovatie in ons achterhoofd, gingen we aan de slag met het bedenken van ideeën die de grenzen van technologie zouden verleggen. Na uren van levendige discussie en debat sloeg de inspiratie toe: een op AI gebaseerde blockchain-loterij.
+With the theme of uniting blockchain and AI for innovation in mind, we brainstormed ideas that would push the boundaries of technology. After hours of spirited discussion and debate, inspiration struck: an AI-powered blockchain lottery.
 
-## Het gebruik van blockchain
+## Utilizing Blockchain
 
-Ons concept was eenvoudig maar revolutionair: traditionele loterijen worden vaak met scepsis en kritiek geconfronteerd met betrekking tot transparantie en eerlijkheid. We wilden deze zorgen aanpakken door de inherente kenmerken van blockchain te benutten - onveranderlijkheid, transparantie en decentralisatie.
+Our concept was simple yet revolutionary: traditional lotteries often face skepticism and criticism regarding transparency and fairness. We aimed to address these concerns by leveraging the inherent features of blockchain - immutability, transparency, and decentralization.
 
-## Innovatie in de loterij
+## Innovating the Lottery
 
-Onze innovatie stopte echter niet daar. We wilden de loterij-ervaring verbeteren door kunstmatige intelligentie in het selectieproces te integreren. In plaats van te vertrouwen op handmatige of pseudowillekeurige methoden, analyseren onze op AI aangedreven algoritmen uitgebreide datasets, waaronder historische loterijresultaten en de voorkeuren van deelnemers, om echt willekeurige en onbevooroordeelde winnende combinaties te genereren.
+However, our innovation didn’t stop there. We sought to enhance the lottery experience by integrating artificial intelligence into the selection process. Instead of relying on manual or pseudorandom methods, our AI-driven algorithms would analyze extensive datasets, including historical lottery results and participant preferences, to generate truly random and unbiased winning combinations.
 
-## Presentatie aan de jury en vertraagde start
+## Presentation to the Jury and a Delayed Start
 
-Nadat we ons idee hadden gevonden, zijn we naar de jury gegaan om het te laten zien. Ze vonden het een goed idee. Om ons succes te vieren, besloten we uit te gaan in Brugge en te genieten van de sfeer. Dit resulteerde echter in een langzame start op de volgende dag.
+After refining our idea, we presented it to the jury. They were impressed with our concept. To celebrate our success, we decided to explore Bruges and enjoy the local atmosphere. This, however, resulted in a slow start the following day.
 
-## De uitdagingen
+## The Challenges
 
-Ondanks de langzame start, bundelden we onze krachten, vastbesloten om het meeste uit de resterende tijd te halen. Toch stuitten we op obstakels die onze vastberadenheid op de proef stelden. Geen van ons was een expert op deze gebieden, en de leercurve bleek steiler dan verwacht.
+Despite the slow start, we pooled our efforts, determined to make the most of the remaining time. Yet, we encountered obstacles that tested our resolve. None of us were experts in these fields, and the learning curve proved steeper than expected.
 
-## De waardering van de ervaring
+## Appreciating the Experience
 
-Hoewel we geen prijs in de wacht sleepten, waren de lessen die we hebben geleerd en de herinneringen die we hebben opgedaan tijdens dat weekend onschatbaar. We hebben gelachen, we hebben geworsteld, en we zijn gegroeid - niet alleen als ontwikkelaars, maar als vrienden verenigd door een gedeelde passie voor innovatie.
+Though we didn't win a prize, the lessons learned and memories made during that weekend were invaluable. We laughed, we struggled, and we grew - not only as developers but as friends united by a shared passion for innovation.
 
-## Terug naar Antwerpen
+## Returning to Antwerp
 
-Toen we afscheid namen van Brugge en terugkeerden naar Antwerpen, kon ik niet anders dan een gevoel van voldoening voelen. Ondanks de uitkomst was de hackathon meer dan alleen een wedstrijd - het was een ontdekkingsreis en een gevoel van camaraderie. En uiteindelijk was dat meer waard dan welke prijs dan ook.
+As we bid farewell to Bruges and returned to Antwerp, I couldn’t help but feel a sense of fulfillment. Despite the outcome, the hackathon was more than just a competition - it was a journey of discovery and camaraderie. And in the end, that was worth more than any prize.

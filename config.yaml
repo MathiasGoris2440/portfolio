@@ -143,7 +143,7 @@ params:
   about:
     enable: true
     title: "About Me"
-    image: /images/portfolio-image-circle.png
+    image: "/images/portfolio-image-circle.png"
     content: |-
       I am a student specializing in software engineering with a passion for web development. Currently, I am pursuing my Bachelor of Applied Computer Science at Howest University of Applied Sciences.
 

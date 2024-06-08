@@ -12,21 +12,21 @@ description: ""
 toc: 
 ---
 
-Op 14 maart werd ik ondergedompeld in de intrigerende wereld van quantum computing tijdens een boeiende masterclass. Samen met een groep vrienden begaf ik me naar het nieuwe gebouw van Howest, waar de masterclass plaatsvond. Geleid door IBM Quantum Ambassadeurs, beloofde deze middag een diepgaand inzicht te bieden in de revolutionaire impact van quantum computing op diverse domeinen.
+On March 14th, I was immersed in the intriguing world of quantum computing during a captivating masterclass. Together with a group of friends, I headed to the new Howest building where the masterclass was held. Led by IBM Quantum Ambassadors, the afternoon promised to provide a deep understanding of the revolutionary impact of quantum computing on various fields.
 
-## Verkenning van Quantum Computing
-De masterclass begon om 14 uur en duurde ongeveer 2 uur. Vanaf het begin was ik gefascineerd door de uitleg en demonstraties die ons werden voorgeschoteld. De ambassadeurs namen ons mee op een reis door de basisprincipes van quantum computing, onthullend hoe deze technologie de grenzen van traditionele computers verlegt.
+## Exploring Quantum Computing
+The masterclass began at 2 PM and lasted for about 2 hours. From the very start, I was fascinated by the explanations and demonstrations presented to us. The ambassadors took us on a journey through the basic principles of quantum computing, revealing how this technology pushes the boundaries of traditional computers.
 
-Na een uur vol waardevolle informatie was er een welverdiende pauze. Dit gaf ons de gelegenheid om te reflecteren op wat we hadden geleerd en te bespreken hoe quantum computing ons begrip van informatieverwerking verandert.
+After an hour full of valuable information, there was a well-deserved break. This gave us the opportunity to reflect on what we had learned and discuss how quantum computing is changing our understanding of information processing.
 
-## De Uitdaging en de Quiz
-Na de pauze volgde nog een uur van intensieve leerstof, waarin we dieper ingingen op de meer complexe aspecten van quantum computing. Persoonlijk vond ik deze delen uitdagender, maar desalniettemin enorm interessant. Het was een kans om mijn begrip te verdiepen en te streven naar een vollediger beeld van deze opkomende technologie.
+## The Challenge and the Quiz
+Following the break, we had another hour of intensive material, delving deeper into the more complex aspects of quantum computing. Personally, I found these parts more challenging, but nonetheless extremely interesting. It was an opportunity to deepen my understanding and strive for a more complete picture of this emerging technology.
 
-Als afsluiter van de masterclass was er een quiz om ons begrip te testen. Helaas heb ik de quiz niet gewonnen, maar ik was trots om in de top 10 te eindigen. Het was een leuke uitdaging die ons aanspoorde om onze kennis toe te passen en te versterken.
+To conclude the masterclass, there was a quiz to test our understanding. Unfortunately, I didn't win the quiz, but I was proud to finish in the top 10. It was a fun challenge that encouraged us to apply and reinforce our knowledge.
 
-## Nabeschouwing en Reflectie
-Na de les was er nog een aangename verrassing in de vorm van een open bar, waar we gratis drankjes konden halen. Dit gaf ons de gelegenheid om na te praten met medestudenten en onze indrukken van de masterclass te delen.
+## Reflection and Conclusion
+After the class, there was a pleasant surprise in the form of an open bar, where we could get free drinks. This gave us the chance to chat with fellow students and share our impressions of the masterclass.
 
-Al met al was het een dag vol ontdekking en groei. Hoewel ik merkte dat sommige delen van de les moeilijker waren om te volgen, was het juist deze uitdaging die mijn interesse aanwakkerde. Quantum computing blijft een fascinerend terrein waarop ik graag verder wil verkennen.
+All in all, it was a day of discovery and growth. While I found some parts of the lesson more difficult to follow, it was precisely this challenge that sparked my interest. Quantum computing remains a fascinating field that I am eager to explore further.
 
-De masterclass over quantum computing heeft mijn horizon verbreed en mijn nieuwsgierigheid aangewakkerd. Ik kijk ernaar uit om meer te leren over dit spannende vakgebied en om de transformerende impact ervan op onze wereld te zien evolueren.
+The masterclass on quantum computing broadened my horizons and sparked my curiosity. I look forward to learning more about this exciting field and seeing the transformative impact it will have on our world.
