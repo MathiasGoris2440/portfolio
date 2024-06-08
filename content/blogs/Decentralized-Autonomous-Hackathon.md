@@ -1,5 +1,5 @@
 ---
-title: Decentralized Autonomous Hackathon
+title: "Decentralized Autonomous Hackathon"
 date: 2024-04-20T22:53:58+05:30
 draft: false
 author: "Mathias Goris"
@@ -10,9 +10,8 @@ tags:
   - Blockchain
 image: /images/hackathon.jpg
 description: ""
-toc: 
-
 ---
+
 On April 19, 2024, excitement surged through our veins as my friends and I embarked on a journey from Antwerp to Bruges. Our destination? The Decentralized Autonomous Hackathon, hosted by Cyber 3 Lab. Armed with laptops, snacks, and a shared passion for innovation, we set off to immerse ourselves in a whirlwind of creativity and competition.
 
 ## A Vibrant Atmosphere
