@@ -1,6 +1,5 @@
 baseURL: "https://mathiasgoris.netlify.app"
 languageCode: "en-us"
-publishDir: "docs"
 title: "Mathias Goris"
 theme: hugo-profile
 
