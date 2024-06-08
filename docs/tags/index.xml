@@ -2,73 +2,73 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Mathias Goris</title>
-    <link>https://mathiasgoris.netlify.app/portfolio/tags/</link>
+    <link>https://mathiasgoris.netlify.app/tags/</link>
     <description>Recent content in Tags on Mathias Goris</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 20 Apr 2024 22:53:58 +0530</lastBuildDate>
-    <atom:link href="https://mathiasgoris.netlify.app/portfolio/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://mathiasgoris.netlify.app/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>AI</title>
-      <link>https://mathiasgoris.netlify.app/portfolio/tags/ai/</link>
+      <link>https://mathiasgoris.netlify.app/tags/ai/</link>
       <pubDate>Sat, 20 Apr 2024 22:53:58 +0530</pubDate>
-      <guid>https://mathiasgoris.netlify.app/portfolio/tags/ai/</guid>
+      <guid>https://mathiasgoris.netlify.app/tags/ai/</guid>
       <description></description>
     </item>
     <item>
       <title>Blockchain</title>
-      <link>https://mathiasgoris.netlify.app/portfolio/tags/blockchain/</link>
+      <link>https://mathiasgoris.netlify.app/tags/blockchain/</link>
       <pubDate>Sat, 20 Apr 2024 22:53:58 +0530</pubDate>
-      <guid>https://mathiasgoris.netlify.app/portfolio/tags/blockchain/</guid>
+      <guid>https://mathiasgoris.netlify.app/tags/blockchain/</guid>
       <description></description>
     </item>
     <item>
       <title>Brugge</title>
-      <link>https://mathiasgoris.netlify.app/portfolio/tags/brugge/</link>
+      <link>https://mathiasgoris.netlify.app/tags/brugge/</link>
       <pubDate>Sat, 20 Apr 2024 22:53:58 +0530</pubDate>
-      <guid>https://mathiasgoris.netlify.app/portfolio/tags/brugge/</guid>
+      <guid>https://mathiasgoris.netlify.app/tags/brugge/</guid>
       <description></description>
     </item>
     <item>
       <title>Hackathon</title>
-      <link>https://mathiasgoris.netlify.app/portfolio/tags/hackathon/</link>
+      <link>https://mathiasgoris.netlify.app/tags/hackathon/</link>
       <pubDate>Sat, 20 Apr 2024 22:53:58 +0530</pubDate>
-      <guid>https://mathiasgoris.netlify.app/portfolio/tags/hackathon/</guid>
+      <guid>https://mathiasgoris.netlify.app/tags/hackathon/</guid>
       <description></description>
     </item>
     <item>
       <title>Emoji Support</title>
-      <link>https://mathiasgoris.netlify.app/portfolio/tags/emoji-support/</link>
+      <link>https://mathiasgoris.netlify.app/tags/emoji-support/</link>
       <pubDate>Thu, 14 Mar 2024 22:53:58 +0530</pubDate>
-      <guid>https://mathiasgoris.netlify.app/portfolio/tags/emoji-support/</guid>
+      <guid>https://mathiasgoris.netlify.app/tags/emoji-support/</guid>
       <description></description>
     </item>
     <item>
       <title>Example</title>
-      <link>https://mathiasgoris.netlify.app/portfolio/tags/example/</link>
+      <link>https://mathiasgoris.netlify.app/tags/example/</link>
       <pubDate>Thu, 14 Mar 2024 22:53:58 +0530</pubDate>
-      <guid>https://mathiasgoris.netlify.app/portfolio/tags/example/</guid>
+      <guid>https://mathiasgoris.netlify.app/tags/example/</guid>
       <description></description>
     </item>
     <item>
       <title>Sample</title>
-      <link>https://mathiasgoris.netlify.app/portfolio/tags/sample/</link>
+      <link>https://mathiasgoris.netlify.app/tags/sample/</link>
       <pubDate>Thu, 14 Mar 2024 22:53:58 +0530</pubDate>
-      <guid>https://mathiasgoris.netlify.app/portfolio/tags/sample/</guid>
+      <guid>https://mathiasgoris.netlify.app/tags/sample/</guid>
       <description></description>
     </item>
     <item>
       <title>Pr-Event</title>
-      <link>https://mathiasgoris.netlify.app/portfolio/tags/pr-event/</link>
+      <link>https://mathiasgoris.netlify.app/tags/pr-event/</link>
       <pubDate>Fri, 24 Nov 2023 23:29:21 +0530</pubDate>
-      <guid>https://mathiasgoris.netlify.app/portfolio/tags/pr-event/</guid>
+      <guid>https://mathiasgoris.netlify.app/tags/pr-event/</guid>
       <description></description>
     </item>
     <item>
       <title>Workshop</title>
-      <link>https://mathiasgoris.netlify.app/portfolio/tags/workshop/</link>
+      <link>https://mathiasgoris.netlify.app/tags/workshop/</link>
       <pubDate>Fri, 24 Nov 2023 23:29:21 +0530</pubDate>
-      <guid>https://mathiasgoris.netlify.app/portfolio/tags/workshop/</guid>
+      <guid>https://mathiasgoris.netlify.app/tags/workshop/</guid>
       <description></description>
     </item>
   </channel>

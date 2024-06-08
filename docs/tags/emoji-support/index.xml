@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Emoji Support on Mathias Goris</title>
-    <link>https://mathiasgoris.netlify.app/portfolio/tags/emoji-support/</link>
+    <link>https://mathiasgoris.netlify.app/tags/emoji-support/</link>
     <description>Recent content in Emoji Support on Mathias Goris</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 14 Mar 2024 22:53:58 +0530</lastBuildDate>
-    <atom:link href="https://mathiasgoris.netlify.app/portfolio/tags/emoji-support/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://mathiasgoris.netlify.app/tags/emoji-support/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Masterclass Quantum Computing</title>
-      <link>https://mathiasgoris.netlify.app/portfolio/blogs/masterclass-quantum-computing/</link>
+      <link>https://mathiasgoris.netlify.app/blogs/masterclass-quantum-computing/</link>
       <pubDate>Thu, 14 Mar 2024 22:53:58 +0530</pubDate>
-      <guid>https://mathiasgoris.netlify.app/portfolio/blogs/masterclass-quantum-computing/</guid>
+      <guid>https://mathiasgoris.netlify.app/blogs/masterclass-quantum-computing/</guid>
       <description>On March 14th, I was immersed in the intriguing world of quantum computing during a captivating masterclass. Together with a group of friends, I headed to the new Howest building where the masterclass was held. Led by IBM Quantum Ambassadors, the afternoon promised to provide a deep understanding of the revolutionary impact of quantum computing on various fields.&#xA;Exploring Quantum Computing The masterclass began at 2 PM and lasted for about 2 hours.</description>
     </item>
   </channel>
