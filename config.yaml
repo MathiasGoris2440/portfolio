@@ -1,4 +1,4 @@
-baseURL: "https://hugo-profile.netlify.app"
+baseURL: "https://mathiasgoris2440.github.io/portfolio/"
 languageCode: "en-us"
 publishDir: "docs"
 title: "Mathias Goris"
