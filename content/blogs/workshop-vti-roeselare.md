@@ -6,6 +6,10 @@ author: "Mathias Goris"
 tags:
   - Workshop
   - Pr-event
+  - MQTT
+  - VTI Roeselare
+  - Docker
+  - Raspberry Pi
 image: /images/VTI-Roeselare.jpg
 description: ""
 

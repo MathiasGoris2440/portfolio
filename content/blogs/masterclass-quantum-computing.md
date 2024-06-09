@@ -4,11 +4,11 @@ date: 2024-03-14T22:53:58+05:30
 draft: false
 author: "Mathias Goris"
 tags:
-  - Emoji support
-  - Sample
-  - example
+  - Quantum Computing
+  - Masterclass
+  - IBM Quantum Ambassadors
 image: /images/masterclass.jpg
-description: ""
+description: "A recap of an immersive masterclass on quantum computing led by IBM Quantum Ambassadors, exploring its principles, challenges, and future impact"
 toc: 
 ---
 

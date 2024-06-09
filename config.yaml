@@ -174,9 +174,6 @@ params:
         company: "Alma"
         companyUrl: "https://www.carrefour.be"
         date: "2021 - 2022"
-       # info:
-        #  enable: true
-         # content: I worked as a software developer for more than one year in Amazon.
         content: "During my two-year involvement with Alma, I gained valuable experience that enhanced my skills in customer service and teamwork"
 
       - job: "Gardener"
@@ -189,7 +186,7 @@ params:
         company: "Belshof"
         companyUrl: "http://taverne-belshof.be"
         date: "JUL 2019 - AUG 2019"
-        content: "During my time at Belshof, I worked in a bar, gaining experience in customer service and teamwork."
+        content: "During my time at Belshof, I worked at the bar in the restaurant, gaining experience in customer service and teamwork."
 
      
   # Education
@@ -212,11 +209,6 @@ params:
           - Development of a smart home application.
 
           I also actively participated in workshops and hackathons, which allowed me to further hone my skills and collaborate with other enthusiastic students and professionals.
-
-        featuredLink:
-          enable: true
-          name: "My academic record"
-          url: "https://example.com"
 
       - title: "Acccounting and IT"
         school:
