@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blockchain on Mathias Goris</title>
-    <link>https://mathiasgoris.netlify.app/tags/blockchain/</link>
+    <link>http://localhost:1313/tags/blockchain/</link>
     <description>Recent content in Blockchain on Mathias Goris</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 20 Apr 2024 22:53:58 +0530</lastBuildDate>
-    <atom:link href="https://mathiasgoris.netlify.app/tags/blockchain/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/blockchain/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Decentralized Autonomous Hackathon</title>
-      <link>https://mathiasgoris.netlify.app/blogs/decentralized-autonomous-hackathon/</link>
+      <link>http://localhost:1313/blogs/decentralized-autonomous-hackathon/</link>
       <pubDate>Sat, 20 Apr 2024 22:53:58 +0530</pubDate>
-      <guid>https://mathiasgoris.netlify.app/blogs/decentralized-autonomous-hackathon/</guid>
+      <guid>http://localhost:1313/blogs/decentralized-autonomous-hackathon/</guid>
       <description>On April 19, 2024, excitement surged through our veins as my friends and I embarked on a journey from Antwerp to Bruges. Our destination? The Decentralized Autonomous Hackathon, hosted by Cyber 3 Lab. Armed with laptops, snacks, and a shared passion for innovation, we set off to immerse ourselves in a whirlwind of creativity and competition.&#xA;A Vibrant Atmosphere Upon entering the lively atmosphere of MAM Howest, the air crackled with anticipation.</description>
     </item>
   </channel>

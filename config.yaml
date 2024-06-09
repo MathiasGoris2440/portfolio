@@ -167,25 +167,33 @@ params:
       - job: "IT Support"
         company: "Beego"
         companyUrl: "https://beego.be"
+        info:
+          enable: false
         date: "2023 - present"
         content: "At Beego, I assist people with their IT problems, further enhancing my own IT problem-solving skills"
 
       - job: "Cashier"
         company: "Alma"
         companyUrl: "https://www.carrefour.be"
+        info:
+          enable: false
         date: "2021 - 2022"
         content: "During my two-year involvement with Alma, I gained valuable experience that enhanced my skills in customer service and teamwork"
 
       - job: "Gardener"
-        company: "AGO jobs"
-        companyUrl: "https://www.ago.jobs"
+        company: "Krinkels"
+        companyUrl: "https://www.krinkels.be/nl/"
         date: "JUL 2020 - AUG 2020"
-        content: "During my time at AGO jobs, I worked as a gardener, gaining experience in teamwork and instilling a strong work ethic."
+        info:
+          enable: false
+        content: "During my time at Krinkels, I worked as a gardener, gaining experience in teamwork and instilling a strong work ethic."
 
       - job: "Bartender"
         company: "Belshof"
         companyUrl: "http://taverne-belshof.be"
         date: "JUL 2019 - AUG 2019"
+        info:
+          enable: false
         content: "During my time at Belshof, I worked at the bar in the restaurant, gaining experience in customer service and teamwork."
 
      
@@ -197,7 +205,7 @@ params:
     items:
       - title: "Bachelor Toegepaste Informatica"
         school:
-          name: "Howest hogeschool"
+          name: "Howest University of Applied Sciences"
           url: "https://www.howest.be/nl"
         date: "2021 - 2024"
         content: |-
@@ -210,12 +218,17 @@ params:
 
           I also actively participated in workshops and hackathons, which allowed me to further hone my skills and collaborate with other enthusiastic students and professionals.
 
-      - title: "Acccounting and IT"
+      - title: "Accounting and IT"
         school:
           name: "Sint-Maria Geel"
           url: "https://kogeka.be/sintmaria/"
         date: "2019 - 2021"
-        content: This is what I did in the 5th and 6th year of secondary school. Here, I learned the basics of programming.
+        content: |-
+         During the 5th and 6th years of secondary school at Sint-Maria Geel, I gained foundational knowledge in programming. Key areas of study included:
+          
+          - **Programming Fundamentals:** Learned the basics of programming logic and syntax, focusing on languages such as Python, Java and C#.
+          - **Database Management:** Acquired skills in database management systems and SQL querying techniques.
+          - **IT Concepts:** Explored fundamental IT concepts, including networking, hardware, and software.
   #Contact
   contact:
     enable: true

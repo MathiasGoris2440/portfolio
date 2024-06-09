@@ -2,45 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blogs on Mathias Goris</title>
-    <link>https://mathiasgoris.netlify.app/blogs/</link>
+    <link>http://localhost:1313/blogs/</link>
     <description>Recent content in Blogs on Mathias Goris</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 20 Apr 2024 22:53:58 +0530</lastBuildDate>
-    <atom:link href="https://mathiasgoris.netlify.app/blogs/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 08 Jun 2024 22:53:58 +0530</lastBuildDate>
+    <atom:link href="http://localhost:1313/blogs/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Creating My Personal Website with Hugo and Netlify</title>
-      <link>https://mathiasgoris.netlify.app/blogs/creating-personal-website/</link>
-      <pubDate>Sat, 20 Apr 2024 22:53:58 +0530</pubDate>
-      <guid>https://mathiasgoris.netlify.app/blogs/creating-personal-website/</guid>
-      <description>Creating a personal website has never been easier with the plethora of tools available today. In this blog post, I’ll walk you through how I built my website using Hugo, a fast and flexible static site generator, and the Hugo Profile theme. I then hosted my website on Netlify using GitHub for version control.&#xA;Choosing Hugo and the Hugo Profile Theme I chose Hugo because of its speed and ease of use.</description>
+      <link>http://localhost:1313/blogs/creating-personal-website/</link>
+      <pubDate>Sat, 08 Jun 2024 22:53:58 +0530</pubDate>
+      <guid>http://localhost:1313/blogs/creating-personal-website/</guid>
+      <description>Creating a personal website has never been easier with the variety of tools available today. In this blog post, I’ll walk you through how I built my website using Hugo, a fast and flexible static site generator, and the Hugo Profile theme. I then hosted my website on Netlify using GitHub for version control.&#xA;Choosing Hugo and the Hugo Profile Theme I chose Hugo because of its speed and ease of use.</description>
     </item>
     <item>
       <title>Decentralized Autonomous Hackathon</title>
-      <link>https://mathiasgoris.netlify.app/blogs/decentralized-autonomous-hackathon/</link>
+      <link>http://localhost:1313/blogs/decentralized-autonomous-hackathon/</link>
       <pubDate>Sat, 20 Apr 2024 22:53:58 +0530</pubDate>
-      <guid>https://mathiasgoris.netlify.app/blogs/decentralized-autonomous-hackathon/</guid>
+      <guid>http://localhost:1313/blogs/decentralized-autonomous-hackathon/</guid>
       <description>On April 19, 2024, excitement surged through our veins as my friends and I embarked on a journey from Antwerp to Bruges. Our destination? The Decentralized Autonomous Hackathon, hosted by Cyber 3 Lab. Armed with laptops, snacks, and a shared passion for innovation, we set off to immerse ourselves in a whirlwind of creativity and competition.&#xA;A Vibrant Atmosphere Upon entering the lively atmosphere of MAM Howest, the air crackled with anticipation.</description>
     </item>
     <item>
       <title>Masterclass Quantum Computing</title>
-      <link>https://mathiasgoris.netlify.app/blogs/masterclass-quantum-computing/</link>
+      <link>http://localhost:1313/blogs/masterclass-quantum-computing/</link>
       <pubDate>Thu, 14 Mar 2024 22:53:58 +0530</pubDate>
-      <guid>https://mathiasgoris.netlify.app/blogs/masterclass-quantum-computing/</guid>
+      <guid>http://localhost:1313/blogs/masterclass-quantum-computing/</guid>
       <description>On March 14th, I was immersed in the intriguing world of quantum computing during a captivating masterclass. Together with a group of friends, I headed to the new Howest building where the masterclass was held. Led by IBM Quantum Ambassadors, the afternoon promised to provide a deep understanding of the revolutionary impact of quantum computing on various fields.&#xA;Exploring Quantum Computing The masterclass began at 2 PM and lasted for about 2 hours.</description>
     </item>
     <item>
       <title>Workshop VTI Roeselare</title>
-      <link>https://mathiasgoris.netlify.app/blogs/workshop-vti-roeselare/</link>
+      <link>http://localhost:1313/blogs/workshop-vti-roeselare/</link>
       <pubDate>Fri, 24 Nov 2023 23:29:21 +0530</pubDate>
-      <guid>https://mathiasgoris.netlify.app/blogs/workshop-vti-roeselare/</guid>
+      <guid>http://localhost:1313/blogs/workshop-vti-roeselare/</guid>
       <description>On November 24th, our team, consisting of Bo Brugghe, Senne Vandecasteele, and myself, faced a challenging task - organizing a workshop on MQTT for the IT students of VTI Roeselare as part of our course on Professional Networking. Prior to this day, we collaborated intensively to create an engaging and informative session.&#xA;Preparation and Ideation It all started with brainstorming the topic of the workshop. After much discussion and consideration, Bo and Senne decided to focus on MQTT, a protocol that is becoming increasingly important in the world of IT and IoT.</description>
     </item>
     <item>
       <title>Guest session of Combell</title>
-      <link>https://mathiasgoris.netlify.app/blogs/guest-session-combell/</link>
+      <link>http://localhost:1313/blogs/guest-session-combell/</link>
       <pubDate>Tue, 07 Nov 2023 22:53:58 +0530</pubDate>
-      <guid>https://mathiasgoris.netlify.app/blogs/guest-session-combell/</guid>
+      <guid>http://localhost:1313/blogs/guest-session-combell/</guid>
       <description>On Tuesday, November 7, from 2:15 PM to 3:45 PM, I had the opportunity to attend a fascinating session by Simon Verdonck from Combell. As I took a break from my school projects, I decided to delve into the world of website and web application hosting, guided by an expert in the field.&#xA;Unveiling the Secrets of Hosting Simon Verdonck&amp;rsquo;s presentation was nothing short of enlightening. He took us on an in-depth journey through the complexities of hosting, explaining everything from caching techniques to optimizing website speed.</description>
     </item>
   </channel>
