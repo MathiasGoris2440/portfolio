@@ -10,13 +10,12 @@ tags:
   - Website Development
 image: /images/hugo-logo.jpg
 description: "A step-by-step guide on how I built and deployed my personal website using Hugo, GitHub, and Netlify"
-toc: 
 ---
 Creating a personal website has never been easier with the variety of tools available today. In this blog post, I’ll walk you through how I built my website using Hugo, a fast and flexible static site generator, and the Hugo Profile theme. I then hosted my website on Netlify using GitHub for version control.
 
 ## Choosing Hugo
 
-I chose Hugo because of its speed and ease of use. It allows you to create static websites quickly with simple configuration and extensive documentation.
+I chose [Hugo](https://gohugo.io) because of its speed and ease of use. It allows you to create static websites quickly with simple configuration and extensive documentation.
 
 ## Installing Hugo
 
@@ -65,9 +64,27 @@ theme: hugo-profile
 
 I expanded my website's content by simply creating new markdown files in the "content/blog" folder. For each new blog post, I created a new markdown file directly in the directory, and then I edited the markdown file to include my content. This method allowed me to easily add new blog posts to my website without using any command-line interface.
 
+Each new blog post begins with a front matter section that includes metadata about the post. Here is an example of how it looks:
+
+```bash
+---
+title: "Exploring Static Site Generators"
+date: 2024-06-10T10:00:00+01:00
+draft: false
+author: "Your name"
+tags:
+  - Static Site Generators
+  - Hugo
+  - Website Development
+image: /images/example.jpg
+description: "An overview of different static site generators and their features"
+---
+Static site generators have gained popularity for their speed and simplicity. In this blog post, we’ll explore various static site generators, comparing their features and use cases...
+```
+
 ## Hosting on Netlify
 
-With my website ready, the next step was to deploy it. I chose Netlify for its seamless integration with GitHub and ease of use.
+With my website ready, the next step was to deploy it. I chose [Netlify](https://www.netlify.com) for its seamless integration with GitHub and ease of use.
 
 ### Pushing to GitHub
 

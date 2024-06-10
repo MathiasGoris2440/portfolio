@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Raspberry Pi on Mathias Goris</title>
-    <link>http://localhost:1313/tags/raspberry-pi/</link>
+    <link>https://mathiasgoris.netlify.app/tags/raspberry-pi/</link>
     <description>Recent content in Raspberry Pi on Mathias Goris</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 24 Nov 2023 23:29:21 +0530</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/raspberry-pi/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://mathiasgoris.netlify.app/tags/raspberry-pi/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Workshop VTI Roeselare</title>
-      <link>http://localhost:1313/blogs/workshop-vti-roeselare/</link>
+      <link>https://mathiasgoris.netlify.app/blogs/workshop-vti-roeselare/</link>
       <pubDate>Fri, 24 Nov 2023 23:29:21 +0530</pubDate>
-      <guid>http://localhost:1313/blogs/workshop-vti-roeselare/</guid>
+      <guid>https://mathiasgoris.netlify.app/blogs/workshop-vti-roeselare/</guid>
       <description>On November 24th, our team, consisting of Bo Brugghe, Senne Vandecasteele, and myself, faced a challenging task - organizing a workshop on MQTT for the IT students of VTI Roeselare as part of our course on Professional Networking. Prior to this day, we collaborated intensively to create an engaging and informative session.&#xA;Preparation and Ideation It all started with brainstorming the topic of the workshop. After much discussion and consideration, Bo and Senne decided to focus on MQTT, a protocol that is becoming increasingly important in the world of IT and IoT.</description>
     </item>
   </channel>

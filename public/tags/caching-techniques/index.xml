@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Caching Techniques on Mathias Goris</title>
-    <link>http://localhost:1313/tags/caching-techniques/</link>
+    <link>https://mathiasgoris.netlify.app/tags/caching-techniques/</link>
     <description>Recent content in Caching Techniques on Mathias Goris</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 07 Nov 2023 22:53:58 +0530</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/caching-techniques/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://mathiasgoris.netlify.app/tags/caching-techniques/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Guest session of Combell</title>
-      <link>http://localhost:1313/blogs/guest-session-combell/</link>
+      <link>https://mathiasgoris.netlify.app/blogs/guest-session-combell/</link>
       <pubDate>Tue, 07 Nov 2023 22:53:58 +0530</pubDate>
-      <guid>http://localhost:1313/blogs/guest-session-combell/</guid>
+      <guid>https://mathiasgoris.netlify.app/blogs/guest-session-combell/</guid>
       <description>On Tuesday, November 7, from 2:15 PM to 3:45 PM, I had the opportunity to attend a fascinating session by Simon Verdonck from Combell. As I took a break from my school projects, I decided to delve into the world of website and web application hosting, guided by an expert in the field.&#xA;Unveiling the Secrets of Hosting Simon Verdonck&amp;rsquo;s presentation was nothing short of enlightening. He took us on an in-depth journey through the complexities of hosting, explaining everything from caching techniques to optimizing website speed.</description>
     </item>
   </channel>
