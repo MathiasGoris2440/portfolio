@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Hugo on Mathias Goris</title>
-    <link>https://mathiasgoris.netlify.app/tags/hugo/</link>
+    <link>http://localhost:1313/tags/hugo/</link>
     <description>Recent content in Hugo on Mathias Goris</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 08 Jun 2024 22:53:58 +0530</lastBuildDate>
-    <atom:link href="https://mathiasgoris.netlify.app/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Creating My Personal Website with Hugo and Netlify</title>
-      <link>https://mathiasgoris.netlify.app/blogs/creating-personal-website/</link>
+      <link>http://localhost:1313/blogs/creating-personal-website/</link>
       <pubDate>Sat, 08 Jun 2024 22:53:58 +0530</pubDate>
-      <guid>https://mathiasgoris.netlify.app/blogs/creating-personal-website/</guid>
+      <guid>http://localhost:1313/blogs/creating-personal-website/</guid>
       <description>Creating a personal website has never been easier with the variety of tools available today. In this blog post, I’ll walk you through how I built my website using Hugo, a fast and flexible static site generator, and the Hugo Profile theme. I then hosted my website on Netlify using GitHub for version control.&#xA;Choosing Hugo I chose Hugo because of its speed and ease of use. It allows you to create static websites quickly with simple configuration and extensive documentation.</description>
     </item>
   </channel>
