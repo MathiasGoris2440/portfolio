@@ -137,6 +137,9 @@ params:
       fontAwesomeIcons:
         - icon: fab fa-linkedin
           url: https://www.linkedin.com/in/mathias-goris-4574572a0
+        - icon: fab fa-github
+          url: https://github.com/MathiasGoris2440
+
 
   # About
   about:
