@@ -2,93 +2,96 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/blogs/</loc>
+    <loc>https://mathiasgoris.netlify.app/blogs/</loc>
     <lastmod>2024-06-08T22:53:58+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blogs/creating-personal-website/</loc>
+    <loc>https://mathiasgoris.netlify.app/blogs/creating-personal-website/</loc>
     <lastmod>2024-06-08T22:53:58+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/github/</loc>
+    <loc>https://mathiasgoris.netlify.app/tags/github/</loc>
     <lastmod>2024-06-08T22:53:58+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/hugo/</loc>
+    <loc>https://mathiasgoris.netlify.app/tags/hugo/</loc>
     <lastmod>2024-06-08T22:53:58+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://mathiasgoris.netlify.app/</loc>
     <lastmod>2024-06-08T22:53:58+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/netlify/</loc>
+    <loc>https://mathiasgoris.netlify.app/tags/netlify/</loc>
     <lastmod>2024-06-08T22:53:58+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://mathiasgoris.netlify.app/tags/</loc>
     <lastmod>2024-06-08T22:53:58+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/website-development/</loc>
+    <loc>https://mathiasgoris.netlify.app/tags/website-development/</loc>
     <lastmod>2024-06-08T22:53:58+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/ai/</loc>
+    <loc>https://mathiasgoris.netlify.app/tags/ai/</loc>
     <lastmod>2024-04-20T22:53:58+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/blockchain/</loc>
+    <loc>https://mathiasgoris.netlify.app/tags/blockchain/</loc>
     <lastmod>2024-04-20T22:53:58+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/brugge/</loc>
+    <loc>https://mathiasgoris.netlify.app/tags/brugge/</loc>
     <lastmod>2024-04-20T22:53:58+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blogs/decentralized-autonomous-hackathon/</loc>
+    <loc>https://mathiasgoris.netlify.app/blogs/decentralized-autonomous-hackathon/</loc>
     <lastmod>2024-04-20T22:53:58+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/hackathon/</loc>
+    <loc>https://mathiasgoris.netlify.app/tags/event/</loc>
     <lastmod>2024-04-20T22:53:58+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/ibm-quantum-ambassadors/</loc>
+    <loc>https://mathiasgoris.netlify.app/tags/hackathon/</loc>
+    <lastmod>2024-04-20T22:53:58+05:30</lastmod>
+  </url><url>
+    <loc>https://mathiasgoris.netlify.app/tags/ibm-quantum-ambassadors/</loc>
     <lastmod>2024-03-14T22:53:58+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/masterclass/</loc>
+    <loc>https://mathiasgoris.netlify.app/tags/masterclass/</loc>
     <lastmod>2024-03-14T22:53:58+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blogs/masterclass-quantum-computing/</loc>
+    <loc>https://mathiasgoris.netlify.app/blogs/masterclass-quantum-computing/</loc>
     <lastmod>2024-03-14T22:53:58+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/quantum-computing/</loc>
+    <loc>https://mathiasgoris.netlify.app/tags/quantum-computing/</loc>
     <lastmod>2024-03-14T22:53:58+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/docker/</loc>
+    <loc>https://mathiasgoris.netlify.app/tags/docker/</loc>
     <lastmod>2023-11-24T23:29:21+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/mqtt/</loc>
+    <loc>https://mathiasgoris.netlify.app/tags/mqtt/</loc>
     <lastmod>2023-11-24T23:29:21+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/pr-event/</loc>
+    <loc>https://mathiasgoris.netlify.app/tags/pr-event/</loc>
     <lastmod>2023-11-24T23:29:21+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/raspberry-pi/</loc>
+    <loc>https://mathiasgoris.netlify.app/tags/raspberry-pi/</loc>
     <lastmod>2023-11-24T23:29:21+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/vti-roeselare/</loc>
+    <loc>https://mathiasgoris.netlify.app/tags/vti-roeselare/</loc>
     <lastmod>2023-11-24T23:29:21+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/workshop/</loc>
+    <loc>https://mathiasgoris.netlify.app/tags/workshop/</loc>
     <lastmod>2023-11-24T23:29:21+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blogs/workshop-vti-roeselare/</loc>
+    <loc>https://mathiasgoris.netlify.app/blogs/workshop-vti-roeselare/</loc>
     <lastmod>2023-11-24T23:29:21+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/caching-techniques/</loc>
+    <loc>https://mathiasgoris.netlify.app/tags/caching-techniques/</loc>
     <lastmod>2023-11-07T22:53:58+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/combell/</loc>
+    <loc>https://mathiasgoris.netlify.app/tags/combell/</loc>
     <lastmod>2023-11-07T22:53:58+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blogs/guest-session-combell/</loc>
+    <loc>https://mathiasgoris.netlify.app/blogs/guest-session-combell/</loc>
     <lastmod>2023-11-07T22:53:58+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/simon-verdonck/</loc>
+    <loc>https://mathiasgoris.netlify.app/tags/simon-verdonck/</loc>
     <lastmod>2023-11-07T22:53:58+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/website-hosting/</loc>
+    <loc>https://mathiasgoris.netlify.app/tags/website-hosting/</loc>
     <lastmod>2023-11-07T22:53:58+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://mathiasgoris.netlify.app/categories/</loc>
   </url>
 </urlset>

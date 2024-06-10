@@ -11,7 +11,7 @@ tags:
   - Docker
   - Raspberry Pi
 image: /images/VTI-Roeselare.jpg
-description: ""
+description: "Organizing and presenting an MQTT workshop for IT students at VTI Roeselare, detailing our preparation, execution, and reflections on the experience"
 
 ---
 

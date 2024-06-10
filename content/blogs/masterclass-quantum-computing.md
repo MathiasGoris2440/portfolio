@@ -4,6 +4,7 @@ date: 2024-03-14T22:53:58+05:30
 draft: false
 author: "Mathias Goris"
 tags:
+  - Event
   - Quantum Computing
   - Masterclass
   - IBM Quantum Ambassadors

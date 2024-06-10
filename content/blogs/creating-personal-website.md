@@ -9,7 +9,7 @@ tags:
   - GitHub
   - Website Development
 image: /images/hugo-logo.jpg
-description: "A step-by-step guide on how I built and deployed my personal website using Hugo, GitHub, and Netlify."
+description: "A step-by-step guide on how I built and deployed my personal website using Hugo, GitHub, and Netlify"
 toc: 
 ---
 Creating a personal website has never been easier with the variety of tools available today. In this blog post, I’ll walk you through how I built my website using Hugo, a fast and flexible static site generator, and the Hugo Profile theme. I then hosted my website on Netlify using GitHub for version control.

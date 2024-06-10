@@ -4,12 +4,13 @@ date: 2024-04-20T22:53:58+05:30
 draft: false
 author: "Mathias Goris"
 tags:
+  - Event
   - Hackathon
   - Brugge
   - AI
   - Blockchain
 image: /images/hackathon.jpg
-description: "A journey of innovation and camaraderie at the Decentralized Autonomous Hackathon in Bruges."
+description: "A journey of innovation and camaraderie at the Decentralized Autonomous Hackathon in Bruges"
 ---
 
 On April 19, 2024, excitement surged through our veins as my friends and I embarked on a journey from Antwerp to Bruges. Our destination? The Decentralized Autonomous Hackathon, hosted by Cyber 3 Lab. Armed with laptops, snacks, and a shared passion for innovation, we set off to immerse ourselves in a whirlwind of creativity and competition.

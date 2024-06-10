@@ -4,6 +4,7 @@ date: 2023-11-07T22:53:58+05:30
 draft: false
 author: "Mathias Goris"
 tags:
+  - Event
   - Combell
   - Simon Verdonck
   - Website Hosting

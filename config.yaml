@@ -49,7 +49,7 @@ Menus:
 
 params:
   title: "Mathias Goris"
-  description: Text about my cool site
+  description: My Portfolio
   # staticPath: ""  # The path to serve the static files from
   favicon: "/fav.png"
 
@@ -170,7 +170,7 @@ params:
         info:
           enable: false
         date: "2023 - present"
-        content: "At Beego, I assist people with their IT problems, further enhancing my own IT problem-solving skills"
+        content: "At Beego, I assist people with their IT problems, further enhancing my own IT problem-solving skills."
 
       - job: "Cashier"
         company: "Alma"
@@ -178,7 +178,7 @@ params:
         info:
           enable: false
         date: "2021 - 2022"
-        content: "During my two-year involvement with Alma, I gained valuable experience that enhanced my skills in customer service and teamwork"
+        content: "During my two-year involvement with Alma, I gained valuable experience that enhanced my skills in customer service and teamwork."
 
       - job: "Gardener"
         company: "Krinkels"

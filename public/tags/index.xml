@@ -2,157 +2,164 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Mathias Goris</title>
-    <link>http://localhost:1313/tags/</link>
+    <link>https://mathiasgoris.netlify.app/tags/</link>
     <description>Recent content in Tags on Mathias Goris</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 08 Jun 2024 22:53:58 +0530</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://mathiasgoris.netlify.app/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>GitHub</title>
-      <link>http://localhost:1313/tags/github/</link>
+      <link>https://mathiasgoris.netlify.app/tags/github/</link>
       <pubDate>Sat, 08 Jun 2024 22:53:58 +0530</pubDate>
-      <guid>http://localhost:1313/tags/github/</guid>
+      <guid>https://mathiasgoris.netlify.app/tags/github/</guid>
       <description></description>
     </item>
     <item>
       <title>Hugo</title>
-      <link>http://localhost:1313/tags/hugo/</link>
+      <link>https://mathiasgoris.netlify.app/tags/hugo/</link>
       <pubDate>Sat, 08 Jun 2024 22:53:58 +0530</pubDate>
-      <guid>http://localhost:1313/tags/hugo/</guid>
+      <guid>https://mathiasgoris.netlify.app/tags/hugo/</guid>
       <description></description>
     </item>
     <item>
       <title>Netlify</title>
-      <link>http://localhost:1313/tags/netlify/</link>
+      <link>https://mathiasgoris.netlify.app/tags/netlify/</link>
       <pubDate>Sat, 08 Jun 2024 22:53:58 +0530</pubDate>
-      <guid>http://localhost:1313/tags/netlify/</guid>
+      <guid>https://mathiasgoris.netlify.app/tags/netlify/</guid>
       <description></description>
     </item>
     <item>
       <title>Website Development</title>
-      <link>http://localhost:1313/tags/website-development/</link>
+      <link>https://mathiasgoris.netlify.app/tags/website-development/</link>
       <pubDate>Sat, 08 Jun 2024 22:53:58 +0530</pubDate>
-      <guid>http://localhost:1313/tags/website-development/</guid>
+      <guid>https://mathiasgoris.netlify.app/tags/website-development/</guid>
       <description></description>
     </item>
     <item>
       <title>AI</title>
-      <link>http://localhost:1313/tags/ai/</link>
+      <link>https://mathiasgoris.netlify.app/tags/ai/</link>
       <pubDate>Sat, 20 Apr 2024 22:53:58 +0530</pubDate>
-      <guid>http://localhost:1313/tags/ai/</guid>
+      <guid>https://mathiasgoris.netlify.app/tags/ai/</guid>
       <description></description>
     </item>
     <item>
       <title>Blockchain</title>
-      <link>http://localhost:1313/tags/blockchain/</link>
+      <link>https://mathiasgoris.netlify.app/tags/blockchain/</link>
       <pubDate>Sat, 20 Apr 2024 22:53:58 +0530</pubDate>
-      <guid>http://localhost:1313/tags/blockchain/</guid>
+      <guid>https://mathiasgoris.netlify.app/tags/blockchain/</guid>
       <description></description>
     </item>
     <item>
       <title>Brugge</title>
-      <link>http://localhost:1313/tags/brugge/</link>
+      <link>https://mathiasgoris.netlify.app/tags/brugge/</link>
       <pubDate>Sat, 20 Apr 2024 22:53:58 +0530</pubDate>
-      <guid>http://localhost:1313/tags/brugge/</guid>
+      <guid>https://mathiasgoris.netlify.app/tags/brugge/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Event</title>
+      <link>https://mathiasgoris.netlify.app/tags/event/</link>
+      <pubDate>Sat, 20 Apr 2024 22:53:58 +0530</pubDate>
+      <guid>https://mathiasgoris.netlify.app/tags/event/</guid>
       <description></description>
     </item>
     <item>
       <title>Hackathon</title>
-      <link>http://localhost:1313/tags/hackathon/</link>
+      <link>https://mathiasgoris.netlify.app/tags/hackathon/</link>
       <pubDate>Sat, 20 Apr 2024 22:53:58 +0530</pubDate>
-      <guid>http://localhost:1313/tags/hackathon/</guid>
+      <guid>https://mathiasgoris.netlify.app/tags/hackathon/</guid>
       <description></description>
     </item>
     <item>
       <title>IBM Quantum Ambassadors</title>
-      <link>http://localhost:1313/tags/ibm-quantum-ambassadors/</link>
+      <link>https://mathiasgoris.netlify.app/tags/ibm-quantum-ambassadors/</link>
       <pubDate>Thu, 14 Mar 2024 22:53:58 +0530</pubDate>
-      <guid>http://localhost:1313/tags/ibm-quantum-ambassadors/</guid>
+      <guid>https://mathiasgoris.netlify.app/tags/ibm-quantum-ambassadors/</guid>
       <description></description>
     </item>
     <item>
       <title>Masterclass</title>
-      <link>http://localhost:1313/tags/masterclass/</link>
+      <link>https://mathiasgoris.netlify.app/tags/masterclass/</link>
       <pubDate>Thu, 14 Mar 2024 22:53:58 +0530</pubDate>
-      <guid>http://localhost:1313/tags/masterclass/</guid>
+      <guid>https://mathiasgoris.netlify.app/tags/masterclass/</guid>
       <description></description>
     </item>
     <item>
       <title>Quantum Computing</title>
-      <link>http://localhost:1313/tags/quantum-computing/</link>
+      <link>https://mathiasgoris.netlify.app/tags/quantum-computing/</link>
       <pubDate>Thu, 14 Mar 2024 22:53:58 +0530</pubDate>
-      <guid>http://localhost:1313/tags/quantum-computing/</guid>
+      <guid>https://mathiasgoris.netlify.app/tags/quantum-computing/</guid>
       <description></description>
     </item>
     <item>
       <title>Docker</title>
-      <link>http://localhost:1313/tags/docker/</link>
+      <link>https://mathiasgoris.netlify.app/tags/docker/</link>
       <pubDate>Fri, 24 Nov 2023 23:29:21 +0530</pubDate>
-      <guid>http://localhost:1313/tags/docker/</guid>
+      <guid>https://mathiasgoris.netlify.app/tags/docker/</guid>
       <description></description>
     </item>
     <item>
       <title>MQTT</title>
-      <link>http://localhost:1313/tags/mqtt/</link>
+      <link>https://mathiasgoris.netlify.app/tags/mqtt/</link>
       <pubDate>Fri, 24 Nov 2023 23:29:21 +0530</pubDate>
-      <guid>http://localhost:1313/tags/mqtt/</guid>
+      <guid>https://mathiasgoris.netlify.app/tags/mqtt/</guid>
       <description></description>
     </item>
     <item>
       <title>Pr-Event</title>
-      <link>http://localhost:1313/tags/pr-event/</link>
+      <link>https://mathiasgoris.netlify.app/tags/pr-event/</link>
       <pubDate>Fri, 24 Nov 2023 23:29:21 +0530</pubDate>
-      <guid>http://localhost:1313/tags/pr-event/</guid>
+      <guid>https://mathiasgoris.netlify.app/tags/pr-event/</guid>
       <description></description>
     </item>
     <item>
       <title>Raspberry Pi</title>
-      <link>http://localhost:1313/tags/raspberry-pi/</link>
+      <link>https://mathiasgoris.netlify.app/tags/raspberry-pi/</link>
       <pubDate>Fri, 24 Nov 2023 23:29:21 +0530</pubDate>
-      <guid>http://localhost:1313/tags/raspberry-pi/</guid>
+      <guid>https://mathiasgoris.netlify.app/tags/raspberry-pi/</guid>
       <description></description>
     </item>
     <item>
       <title>VTI Roeselare</title>
-      <link>http://localhost:1313/tags/vti-roeselare/</link>
+      <link>https://mathiasgoris.netlify.app/tags/vti-roeselare/</link>
       <pubDate>Fri, 24 Nov 2023 23:29:21 +0530</pubDate>
-      <guid>http://localhost:1313/tags/vti-roeselare/</guid>
+      <guid>https://mathiasgoris.netlify.app/tags/vti-roeselare/</guid>
       <description></description>
     </item>
     <item>
       <title>Workshop</title>
-      <link>http://localhost:1313/tags/workshop/</link>
+      <link>https://mathiasgoris.netlify.app/tags/workshop/</link>
       <pubDate>Fri, 24 Nov 2023 23:29:21 +0530</pubDate>
-      <guid>http://localhost:1313/tags/workshop/</guid>
+      <guid>https://mathiasgoris.netlify.app/tags/workshop/</guid>
       <description></description>
     </item>
     <item>
       <title>Caching Techniques</title>
-      <link>http://localhost:1313/tags/caching-techniques/</link>
+      <link>https://mathiasgoris.netlify.app/tags/caching-techniques/</link>
       <pubDate>Tue, 07 Nov 2023 22:53:58 +0530</pubDate>
-      <guid>http://localhost:1313/tags/caching-techniques/</guid>
+      <guid>https://mathiasgoris.netlify.app/tags/caching-techniques/</guid>
       <description></description>
     </item>
     <item>
       <title>Combell</title>
-      <link>http://localhost:1313/tags/combell/</link>
+      <link>https://mathiasgoris.netlify.app/tags/combell/</link>
       <pubDate>Tue, 07 Nov 2023 22:53:58 +0530</pubDate>
-      <guid>http://localhost:1313/tags/combell/</guid>
+      <guid>https://mathiasgoris.netlify.app/tags/combell/</guid>
       <description></description>
     </item>
     <item>
       <title>Simon Verdonck</title>
-      <link>http://localhost:1313/tags/simon-verdonck/</link>
+      <link>https://mathiasgoris.netlify.app/tags/simon-verdonck/</link>
       <pubDate>Tue, 07 Nov 2023 22:53:58 +0530</pubDate>
-      <guid>http://localhost:1313/tags/simon-verdonck/</guid>
+      <guid>https://mathiasgoris.netlify.app/tags/simon-verdonck/</guid>
       <description></description>
     </item>
     <item>
       <title>Website Hosting</title>
-      <link>http://localhost:1313/tags/website-hosting/</link>
+      <link>https://mathiasgoris.netlify.app/tags/website-hosting/</link>
       <pubDate>Tue, 07 Nov 2023 22:53:58 +0530</pubDate>
-      <guid>http://localhost:1313/tags/website-hosting/</guid>
+      <guid>https://mathiasgoris.netlify.app/tags/website-hosting/</guid>
       <description></description>
     </item>
   </channel>
